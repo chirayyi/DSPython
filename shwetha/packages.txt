@@ -1,0 +1,8 @@
+conda install -c conda-forge missingno
+conda install -c anaconda pillow
+conda install -c conda-forge tensorflow
+conda install pandas
+conda install numpy
+conda install matplotlib
+conda install seaborn
+conda install flask
