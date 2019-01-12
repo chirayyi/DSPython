@@ -1,0 +1,15 @@
+name: workshop
+dependencies:  # or 2.7
+  - python=3.6
+  - conda-forge::missingno
+  - conda-forge::tensorflow
+  - anaconda::pillow
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - flask
+  - matplotlib
+  - plotly
+  - jupyter
+
